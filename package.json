@@ -1,0 +1,28 @@
+{
+  "name": "battle-royal",
+  "version": "1.0.0",
+  "description": "Battle Royal WebApp with Sketchbook and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geronymos/Battle-Royal.git"
+  },
+  "keywords": [
+    "socket.io",
+    "Sketchbook",
+    "node"
+  ],
+  "author": "Geronymos",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Geronymos/Battle-Royal/issues"
+  },
+  "homepage": "https://github.com/Geronymos/Battle-Royal#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
