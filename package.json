@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Geronymos/Battle-Royal#readme",
   "dependencies": {
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
